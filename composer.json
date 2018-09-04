@@ -1,5 +1,5 @@
 {
-    "name": "nimbusoft/flysystem-openstack-swift",
+    "name": "mzur/flysystem-openstack-swift",
     "description": "Flysystem adapter for OpenStack Swift",
     "keywords": [
         "filesystem", "filesystems", "files", "chrisnharvey",
@@ -14,6 +14,10 @@
         {
             "name": "Chris Harvey",
             "email": "chris@nimbusoft.co.uk"
+        },
+        {
+            "name": "Martin Zurowietz",
+            "email": "martin@zurowietz.de"
         }
     ],
     "autoload": {
