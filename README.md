@@ -6,7 +6,7 @@
 
 Flysystem adapter for OpenStack Swift.
 
-This is a fork of [nimbusoftltd/flysystem-openstack-swift](https://github.com/nimbusoftltd/flysystem-openstack-swift) as the original maintainer has been inactive.
+**Archived. Use [nimbusoftltd/flysystem-openstack-swift](https://github.com/nimbusoftltd/flysystem-openstack-swift) instead.**
 
 ## Installation
 
